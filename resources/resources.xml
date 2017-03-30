@@ -1,0 +1,18 @@
+<resources>
+    <bitmap id="background" filename="images/gauge.png" />
+	<bitmap id="one" filename="images/one.png" />
+	<bitmap id="two" filename="images/two.png" />
+	<bitmap id="three" filename="images/three.png" />
+	<bitmap id="four" filename="images/four.png" />
+	<bitmap id="five" filename="images/five.png" />
+	<bitmap id="six" filename="images/six.png" />
+	<bitmap id="seven" filename="images/seven.png" />
+	<bitmap id="eight" filename="images/eight.png" />
+	<bitmap id="nine" filename="images/nine.png" />
+	<bitmap id="ten" filename="images/ten.png" />
+	<bitmap id="eleven" filename="images/eleven.png" />
+	<bitmap id="twelve" filename="images/twelve.png" />
+	<bitmap id="midnight" filename="images/midnight.png" />
+	<bitmap id="am" filename="images/am.png" />
+	<bitmap id="pm" filename="images/pm.png" />
+</resources>
